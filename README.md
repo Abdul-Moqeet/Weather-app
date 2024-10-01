@@ -1,4 +1,3 @@
 # Weather-app
  
-![Uploading Weather_App_Kotlin.png…]()
-<img width="274" alt="Screenshot 2024-09-21 at 11 46 07 PM" src="https://github.com/user-attachments/assets/f9ff3290-b396-464b-9e6f-7fa6c3961c8d">
+![Weather_App_Kotlin](https://github.com/user-attachments/assets/1aed64fb-714e-4685-a2fc-75b2716e3ac3)
